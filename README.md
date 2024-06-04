@@ -3,6 +3,8 @@
 ## Overview
 The Inventory Management application is a web-based solution designed to help manage and track inventory items. It allows users to add, edit, delete, view, and scan items using a webcam to automatically detect barcodes. The application features a user-friendly interface built with React and a robust backend powered by Spring Boot.
 
+Used Vercel to deploy frontend and AWS to deploy backend.
+
 ## Features
 - Add new inventory items with details such as name, description, where to buy, barcode, total number, and image.
 - Edit existing inventory items.
